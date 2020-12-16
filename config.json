@@ -1,0 +1,14 @@
+{
+    "MySQL": {
+        "host": "127.0.0.1",
+        "user": "root",
+        "passwd": "password",
+        "database": "stock_features",
+        "table_name": "geodata"
+    },
+    "MyMap": {
+        "access_token": "c661891b-d14d-433e-b214-57fa0db99def",
+        "client_id": "ovBPYlemeAC1a5-l2n0_X_dFun423qiuUaAHzxf8mEDXTT6OnAyAYlx4Rur9ZfQeRC3-L6WmQQz2kdvLU5Nrog==",
+        "client_secret": "ebEc8GH231dkWKHwlxmIB6afSeNkmSt6iNbazMxE9eGUdo4BxuE5lDcbfydmU3pLZ5Mn-6Lu0IhlSWwmXo45Yb6uiGHqcSYn"
+    }
+}
